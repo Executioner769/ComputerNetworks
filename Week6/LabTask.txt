@@ -1,1 +1,5 @@
+1. Implment ARP and RARP
 
+2. Assume a network of n processes, where each process is a node in the network. Let one process maintain a table of MAC id and IP addresses of each node. Each node knows its MAC id. Now simulate ARP through broadcast and targeted messages. Use IPC for the communication (which one do you prefer and why?). Which Data Structure will you use and why? Include simulation of assigning IP addresses, ARP query, and ARP response packets. Use the standard packet structure as far as possible.
+
+3. Prepare a report on "observation of DHCP invocation through Wireshark" (with screenshot)
