@@ -1,0 +1,4 @@
+1. Implement DVR and LSR.
+
+2. Identify and provide the differences in their implementations.
+3. Implement BGP
