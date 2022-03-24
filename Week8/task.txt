@@ -1,0 +1,15 @@
+Task 1. Write a TCP server program: which passively listens for an incoming TCP connection.
+
+A. Write a TCP client program: which actively opens a TCP connection to the server.
+
+B. On connection establishment, the server should print the IP address and port of the client's end of the TCP connection.
+
+C. After connection establishment, the server application should send 1500 bytes periodically, every SEND_INTERVAL milliseconds.
+• What this means is: if the time since the previous send is less than SEND_INTERVAL, then make the process sleep (using usleep) for the appropriate amount of time.
+
+D. After connection establishment, the client application should receive 1500 bytes periodically, every RECEIVE_INTERVAL milliseconds.
+• What this means is: if the time since the previous receive is less than the RECEIVE_INTERVAL, then make the process sleep for the appropriate amount of time.
+
+
+
+Task 2: Implementation of File Transfer Protocol
