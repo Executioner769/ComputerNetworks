@@ -1,0 +1,6 @@
+1. Client-server programming using Sockets
+(i) Implement the following string processing application using connection-oriented client-server programming using C or C++. Some guidelines for its implementation are as follows.
+a) The client will send a textual paragraph terminated by ‘\n’ to the server (assuming that in the paragraph, ‘.’ appears only at the end of sentences and nowhere else). The server will compute the number of characters, number of words, and number of sentences in the paragraph, and send these numbers back to the client. The client will print these numbers on the screen.
+b) Assume that only one client requests service at a given time. Implement the server as an iterative server.
+
+2. Implement DNS server.
