@@ -1,0 +1,5 @@
+1. Implement error detection techniques.
+Single Parity Check
+Two-dimensional Parity Check
+Checksum
+Cyclic Redundancy Check
